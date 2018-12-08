@@ -27,4 +27,16 @@ git remote
 
 git remote -v
 
-git remote -r  (remote)
+git branch -r  (remote)
+
+
+-----------------
+
+git pull  ---to get latest changes from remote
+git remote rm origin    --------------to remove the remote origin from local
+
+********************************
+
+git stash
+git stash apply
+git stash list
