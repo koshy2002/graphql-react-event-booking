@@ -4,3 +4,17 @@ git commit -m "initial commit"
 
 *************************
 git log
+
+git checkout -- .
+
+git reset -- hard
+
+******************************************
+
+git branch
+
+git checkout
+
+git merge
+
+git branch -D
